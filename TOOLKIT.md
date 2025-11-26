@@ -133,10 +133,8 @@ You should see:
 ```
 Starting server on http://localhost:8080
 ```
-
-**In the browser (http://localhost:8080):**
-
 Visit: http://localhost:8080
+**In the browser (http://localhost:8080):**
 
 It will display dynamic content such as:
 ```
@@ -258,3 +256,4 @@ Through this project, I learned how Go's simplicity and built-in packages make i
 **Created by:** Noah Munda  
 **Date:** November 26, 2025  
 **Course:** Moringa AI Capstone Project
+
